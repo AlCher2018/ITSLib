@@ -1,0 +1,3 @@
+﻿textFileKey1 = asjkdhakjseurywiebfk sdkhasf kasjh a
+
+textFileKey2 = значение ключа2 из текстового файла, скомпилированного как Embedded Resource
